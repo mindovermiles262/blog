@@ -2,9 +2,8 @@
 title: Setting up Github Web Hooks
 date: 2018-02-05
 layout: post
-author: andy
+author: andrew
 categories: [ automation, ruby ]
-featured: true
 image: assets/images/webhooks.jpg
 ---
 

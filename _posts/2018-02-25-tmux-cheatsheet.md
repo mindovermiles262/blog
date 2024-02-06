@@ -2,7 +2,7 @@
 title: tmux Cheat Sheet
 date: 2018-02-25
 layout: post
-author: andy
+author: andrew
 categories: [ linux ]
 ---
 

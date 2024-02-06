@@ -2,7 +2,7 @@
 title: Use iPad as External Monitor in Linux
 date: 2018-07-13
 layout: post
-author: andy
+author: andrew
 categories: [ linux ] 
 ---
 

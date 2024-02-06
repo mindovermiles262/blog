@@ -2,10 +2,9 @@
 title: Join an Ubuntu 18 Server to an AD Domain
 date: 2019-01-25
 layout: post
-author: andy
+author: andrew
 image: assets/images/windowslinux.jpg
 categories: [ linux, windows, "system administration" ]
-featured: true
 ---
 
 `realmd` is an "on demand system DBus service which allows callers to configure network authentication and domain membership".  It is used to allow users to log into a Linux server using their AD domain credentials

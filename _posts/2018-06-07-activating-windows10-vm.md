@@ -2,7 +2,7 @@
 title: Activating Windows 10 inside a Virtual Machine
 date: 2018-06-07
 layout: post
-author: andy
+author: andrew
 categories: [ windows, "system administration" ]
 ---
 

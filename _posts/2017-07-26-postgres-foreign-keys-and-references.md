@@ -2,7 +2,7 @@
 title: Postgres Foreign Keys and References
 layout: post
 date: 2017-07-26
-author: andy
+author: andrew
 categories: [ rails ]
 ---
 

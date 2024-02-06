@@ -2,7 +2,7 @@
 layout: post
 title: init (git it?)
 date: 2017-02-03
-author: andy
+author: andrew
 categories: [ "web development" ]
 image: assets/images/init.png
 ---

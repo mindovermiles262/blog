@@ -2,7 +2,7 @@
 title: Making Sense of Catalina's Notarization Requirements
 date: 2019-07-24
 layout: post
-author: andy
+author: andrew
 image: assets/images/notarize.jpg
 categories: [ mac, "system administration" ]
 ---

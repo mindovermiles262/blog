@@ -2,7 +2,7 @@
 name: "Three Quick Steps"
 title: "Three Quick Steps"
 description: "Thoughts, Tutorials, and Musings from a DevOper's mind"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+# meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/initials.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -14,30 +14,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-  andy:
-    name: Andy Duss
-    display_name: Andy
+  andrew:
+    name: Andrew Duss
+    display_name: Andrew
     gravatar: 1d80a31231da3758a5719f107074ffec
     email: mindovermiles262@gmail.com
-    web: https://andyduss.com
-    twitter: https://twitter.com/andyduss
-    description: "DevOps professional. Always Learning. The Odin Project core team. Marathon Runner, Coffee Drinker, Day Hiker."
+    web: https://andrewduss.com
+    # twitter: https://twitter.com/andyduss
+    description: "DevOps professional. Always Learning. Marathon Runner, Coffee Drinker, Day Hiker."
 
 # Plugins
 plugins: 

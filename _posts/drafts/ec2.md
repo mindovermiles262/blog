@@ -2,7 +2,7 @@
 title: Elastic Compute Cloud (EC2) 
 date: 2019-03-13
 layout: post
-author: andy
+author: andrew
 image: assets/images/ec2.png
 categories: [ aws, notes ]
 ---

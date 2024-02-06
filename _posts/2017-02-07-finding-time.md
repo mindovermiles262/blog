@@ -2,7 +2,7 @@
 title: Finding Time
 layout: post
 date: 2017-02-07
-author: andy
+author: andrew
 categories: [ self-help ]
 ---
 

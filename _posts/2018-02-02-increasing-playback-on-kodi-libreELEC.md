@@ -2,7 +2,7 @@
 title: "Increasing Playback Speed on Kodi LibreELEC on Raspberry Pi"
 layout: post
 date: 2018-02-02
-author: andy
+author: andrew
 categories: [ "raspberry pi" ]
 ---
 

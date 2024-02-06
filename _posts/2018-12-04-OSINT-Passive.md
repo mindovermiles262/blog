@@ -2,7 +2,7 @@
 title: Open Source Intelligence
 date: 2018-12-04
 layout: post
-author: andy
+author: andrew
 categories: [linux, OSCP ]
 ---
 

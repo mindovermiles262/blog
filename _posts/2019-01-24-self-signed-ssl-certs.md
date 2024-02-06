@@ -2,7 +2,7 @@
 title: Self-Signed SSL
 date: 2019-01-24
 layout: post
-author: andy
+author: andrew
 categories: [ linux, "system administration" ] 
 ---
 

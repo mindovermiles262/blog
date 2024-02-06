@@ -2,7 +2,7 @@
 title: SpinRite 6 on MacOS External Drive
 date: 2020-03-16
 layout: post
-author: andy
+author: andrew
 image: assets/images/apple.png
 categories: [macos, "system administration"]
 ---
